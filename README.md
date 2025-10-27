@@ -1,5 +1,5 @@
 
-# Waste Classifier AI
+#  AI-Powered Waste Classifier
 
 **Waste Classifier AI** is a Convolutional Neural Network (CNN)-based image classification system built using **TensorFlow/Keras**.  
 It automatically classifies waste materials such as **cardboard, plastic, glass, metal, paper, and trash**, promoting efficient recycling and sustainable waste management.
