@@ -56,3 +56,16 @@ The CNN is designed with the following layers:
 - Seaborn  
 - scikit-learn  
 
+## Dataset
+
+The dataset contains **six waste categories** used for training and validation:
+
+- Cardboard  
+- Glass  
+- Metal  
+- Paper  
+- Plastic  
+- Trash
+
+Each folder inside the dataset directory contains labeled images for that specific waste type.
+
